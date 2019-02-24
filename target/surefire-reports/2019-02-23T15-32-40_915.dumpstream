@@ -1,0 +1,4 @@
+# Created at 2019-02-23T15:32:41.910
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Project\JavaProject\New folder\betPawa-automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

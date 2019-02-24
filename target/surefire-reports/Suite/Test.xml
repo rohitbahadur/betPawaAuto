@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" failures="0" tests="7" time="139.127" errors="0">
+  <properties/>
+  <testcase name="b_VerifyBet" time="37.483" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="c_VerifyMultipleBet" time="26.536" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="d_VerifyWithdrawl" time="13.792" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="e_VerifyRedeemVoucher" time="16.811" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="f_VerifyWithdrawlInsufficientAmount" time="12.136" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="g_VerifyWithdrawlInvalidAmount" time="7.32" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+  <testcase name="h_VerifyInvalidCurrencyVoucher" time="25.034" classname="org.betPawa.automation.betPawa_automation.BetPawaTests"/>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164376" started-at="2019-02-23T13:53:54Z" finished-at="2019-02-23T13:56:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164376" started-at="2019-02-23T13:53:54Z" finished-at="2019-02-23T13:56:39Z">
+      <class name="org.betPawa.automation.betPawa_automation.BetPawaTests">
+        <test-method status="PASS" signature="b_VerifyBet()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="b_VerifyBet" duration-ms="52100" started-at="2019-02-23T13:53:54Z" finished-at="2019-02-23T13:54:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_VerifyBet -->
+        <test-method status="PASS" signature="c_VerifyMultipleBet()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="c_VerifyMultipleBet" duration-ms="26392" started-at="2019-02-23T13:54:46Z" finished-at="2019-02-23T13:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_VerifyMultipleBet -->
+        <test-method status="PASS" signature="d_VerifyWithdrawl()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="d_VerifyWithdrawl" duration-ms="20296" started-at="2019-02-23T13:55:13Z" finished-at="2019-02-23T13:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_VerifyWithdrawl -->
+        <test-method status="PASS" signature="e_VerifyRedeemVoucher()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="e_VerifyRedeemVoucher" duration-ms="17815" started-at="2019-02-23T13:55:33Z" finished-at="2019-02-23T13:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_VerifyRedeemVoucher -->
+        <test-method status="PASS" signature="f_VerifyWithdrawlInsufficientAmount()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="f_VerifyWithdrawlInsufficientAmount" duration-ms="15575" started-at="2019-02-23T13:55:51Z" finished-at="2019-02-23T13:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f_VerifyWithdrawlInsufficientAmount -->
+        <test-method status="PASS" signature="g_VerifyWithdrawlInvalidAmount()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="g_VerifyWithdrawlInvalidAmount" duration-ms="7718" started-at="2019-02-23T13:56:06Z" finished-at="2019-02-23T13:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g_VerifyWithdrawlInvalidAmount -->
+        <test-method status="PASS" signature="h_VerifyInvalidCurrencyVoucher()[pri:0, instance:org.betPawa.automation.betPawa_automation.BetPawaTests@51565ec2]" name="h_VerifyInvalidCurrencyVoucher" duration-ms="24421" started-at="2019-02-23T13:56:14Z" finished-at="2019-02-23T13:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h_VerifyInvalidCurrencyVoucher -->
+      </class> <!-- org.betPawa.automation.betPawa_automation.BetPawaTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
